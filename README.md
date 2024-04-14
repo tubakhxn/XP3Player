@@ -43,7 +43,7 @@ To build XR3Player, you will need:
 * [JDK 21]
 * [Maven](http://maven.apache.org/) - Version 3.8.1++
 
-Open IntelliJ and fork the project (https://github.com/goxr3plus/XR3Player).
+Open IntelliJ and fork the project (https://github.com/tubakhxn/XP3Player).
 
 ![2019-08-01_18-04-22](https://user-images.githubusercontent.com/20374208/62304551-d5f91900-b486-11e9-80e9-cf802d91ee6f.gif)
 
