@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.MenuItem?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+
+<fx:root type="ContextMenu" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+      <MenuItem fx:id="openFolder" mnemonicParsing="false" text="Open Folder">
+         <graphic>
+            <FontIcon iconColor="#dd9837" iconLiteral="far-folder-open" iconSize="20" />
+         </graphic>
+      </MenuItem>
+      <MenuItem fx:id="download" mnemonicParsing="false" text="Download">
+         <graphic>
+            <FontIcon iconColor="#ceff26" iconLiteral="fas-cloud-download-alt" iconSize="20" />
+         </graphic>
+      </MenuItem>
+      <MenuItem fx:id="rename" mnemonicParsing="false" text="Rename">
+         <graphic>
+            <FontIcon iconColor="#51eeec" iconLiteral="fas-edit" iconSize="20" />
+         </graphic>
+      </MenuItem>
+      <MenuItem fx:id="delete" mnemonicParsing="false" text="Delete">
+         <graphic>
+            <FontIcon iconColor="#d03e3e" iconLiteral="typ-delete" iconSize="32" />
+         </graphic></MenuItem>
+  </items>
+</fx:root>
