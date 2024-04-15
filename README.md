@@ -16,9 +16,7 @@ XP3Player for AI project by Tuba Khan and Nisha
 |:-:|
 | [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)] |
 
-| You can watch the video if you want|
-|:-:|
-| [![First](https://user-images.githubusercontent.com/20374208/48313813-34fdc180-e5ca-11e8-9da7-c6148dc0cbe5.png)](https://www.youtube.com/watch?v=7Hai7cavmUY)  |
+
 
 ## Platform Support ( 64 bit ) 
 
